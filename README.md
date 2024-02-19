@@ -10,14 +10,4 @@ I used the newest CSS feature on this site. Here are some of them:
 ##### Here's Working demo
 
 
-ginal).mp4…
 
-    1. CSS Grid
-    
-    2. CSS Flexbox
-
-    3. CSS Transition
-
-    4. 3D Animation
-
-    5. Responsiveness & good look in every device
