@@ -9,7 +9,6 @@ I used the newest CSS feature on this site. Here are some of them:
 
 ##### Here's Working demo
 
-https://github.com/mdsiamsheikh/portfolio/assets/97788837/77ad46a3-798b-45c5-81f9-e80787367b9a
 
 ginal).mp4…
 
